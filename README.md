@@ -1,0 +1,1 @@
+# gmuj-vimrc
